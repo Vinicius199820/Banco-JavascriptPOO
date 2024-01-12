@@ -1,2 +1,2 @@
-# Banco-JavascriptPOO
-Este é um projeto de um banco e suas funções, feito em javascript com programação orientada a objeto.
+# Banco-Javascript POO
+Este projeto consiste em criar um sistema para um banco com programação orientada a objeto em javascript, este sistema contém definições de nossas classes que serão utilizadas com o nome "Cliente", nossos atributos que serão as definições das informações que compõe a classe, também foram utilizados funções dentro destas classes como "Depositar", "Sacar" e "Transferência", juntamente com a impressão das informações dos clientes, saldo e contagem de quantas conta correntes e quantos clientes estão cadastrados em nosso sistema bancário. Utilizei atributos privados para garantir a veracidade das informações do banco.  
